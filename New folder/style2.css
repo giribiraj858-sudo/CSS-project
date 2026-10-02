@@ -1,0 +1,26 @@
+/* Element selector */
+
+div {
+    background-color: brown;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    height: 120px;
+    width: 400px;
+}
+
+/* Class selector */
+.second {
+    background-color: lightblue;
+    color: darkblue;
+    text-align: center;
+    border-radius: 10px;
+}
+
+/* ID selector */
+#third {
+    background-color: lightgreen;
+    color: darkgreen;
+    text-align: right;
+    border: 3px dashed green;
+}
